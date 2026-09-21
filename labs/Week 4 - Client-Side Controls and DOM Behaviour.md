@@ -8,17 +8,17 @@
 2. **Practitioner: DOM-based open redirection**  
    https://portswigger.net/web-security/dom-based/open-redirection/lab-dom-open-redirection
 
-3. **Practitioner: DOM-based cookie manipulation**  
-   https://portswigger.net/web-security/dom-based/cookie-manipulation/lab-dom-cookie-manipulation
-
-4. **Apprentice: High-level logic vulnerability**  
+3. **Apprentice: High-level logic vulnerability**  
    https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-high-level
 
-5. **Apprentice: Inconsistent security controls**  
+4. **Apprentice: Inconsistent security controls**  
    https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-inconsistent-security-controls
 
-6. **Apprentice: Flawed enforcement of business rules**  
+5. **Apprentice: Flawed enforcement of business rules**  
    https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-flawed-enforcement-of-business-rules
+
+6. **Practitioner: DOM-based cookie manipulation**  
+   https://portswigger.net/web-security/dom-based/cookie-manipulation/lab-dom-cookie-manipulation
 
 7. **Practitioner: DOM XSS using web messages**  
    https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages
