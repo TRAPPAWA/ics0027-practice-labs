@@ -25,6 +25,20 @@
 
 8. **Practitioner: Multi-step process with no access control on one step**  
    https://portswigger.net/web-security/access-control/lab-multi-step-process-with-no-access-control-on-one-step
+9. **Apprentice: Unprotected admin functionality with unpredictable URL**
+   https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality-with-unpredictable-url
+
+10. **Apprentice: User ID controlled by request parameter**
+    https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter
+
+11. **Apprentice: User ID controlled by request parameter, with unpredictable user IDs**
+    https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-unpredictable-user-ids
+
+12. **Apprentice: User ID controlled by request parameter with password disclosure**
+    https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-password-disclosure
+
+13. **Practitioner: Referer-based access control**
+    https://portswigger.net/web-security/access-control/lab-referer-based-access-control
 
 ## Quick reference
 
